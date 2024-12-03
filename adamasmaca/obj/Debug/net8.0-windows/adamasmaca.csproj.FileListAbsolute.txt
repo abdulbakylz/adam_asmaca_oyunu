@@ -1,0 +1,17 @@
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\bin\Debug\net8.0-windows\adamasmaca.exe
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\bin\Debug\net8.0-windows\adamasmaca.deps.json
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\bin\Debug\net8.0-windows\adamasmaca.runtimeconfig.json
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\bin\Debug\net8.0-windows\adamasmaca.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\bin\Debug\net8.0-windows\adamasmaca.pdb
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.Form1.resources
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.csproj.GenerateResource.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.AssemblyInfoInputs.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.AssemblyInfo.cs
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.csproj.CoreCompileInputs.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\refint\adamasmaca.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.pdb
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.genruntimeconfig.cache
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\ref\adamasmaca.dll
+C:\Users\ABDÜL BAKİ YILDIZ\Source\Repos\adamasmaca\obj\Debug\net8.0-windows\adamasmaca.Properties.Resources.resources
